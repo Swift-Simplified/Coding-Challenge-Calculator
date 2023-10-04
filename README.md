@@ -8,7 +8,7 @@ Simplifying [the official Language Guide](https://docs.swift.org/swift-book/docu
 
 ## Coding Challenge #3
 
-**Name:** Build a basic arithmetic calculator using TDD *(Test Driven Development)*.
+**Task:** Build a basic arithmetic calculator using TDD *(Test Driven Development)*.
 
 **Difficulty level:** Intermediate.
 
